@@ -11,7 +11,7 @@ The cluster look like this :
 
 We start by enabling swarm mode, and defining the leader
 
-![DEMO](<<<<<<<https://github.com/ayoubensalem/LoadBalancing-docker-swarm/blob/master/demo/_1.png)
+![DEMO](https://github.com/ayoubensalem/LoadBalancing-docker-swarm/blob/master/demo/_1.png)
 
 We then, get the token for joining workers :
 
