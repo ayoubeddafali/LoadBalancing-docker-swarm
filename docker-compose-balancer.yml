@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  loadbalancer:
+    image: nginx
+    ports:
+      - "8000:80"
+    volumes:
+      - /data/loadbalancer:/etc/nginx/conf.d
